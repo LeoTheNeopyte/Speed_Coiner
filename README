@@ -1,0 +1,154 @@
+Game Design Document: https://docs.google.com/document/d/1UA5yExFgbCebrFAhKuBlr3UhojWS5UTS-3yW85ZjjC8/edit?usp=sharing
+version whatever 2.2
+-----------------------
+Background music added, Menu art, extra instructions for "how to play"
+
+version whatever 2.1
+-----------------------
+Placed more coins, diamonds, and bombs
+
+version whatever 2.0
+------------------------
+still need feedback on the resolution.
+
+i made the car yellow
+
+
+
+version whatever
+-----------------------
+omg i'm dumb
+the aspect ratio was all wrong because my laptop is 4k.
+i realized it looked dumb on a regular screen.
+i changed the ratio to a regular 1080p screen
+1920x1080 it looks normal now.
+
+also, i added splash screen, fixed all the 16x9 aspect ratio issues
+
+
+
+version .67
+---------------------
+Added loop to reset coins and diamonds
+Found a bug where you can get stuck on the fence when going over the ramp if you're not traveling fast enough (haven't fixed yet)
+
+version .66
+---------------------
+I added the link to the game design document. - vince
+
+version .65
+-----------------
+walls are done.
+added secret section
+added ramp to make jump easier
+
+version .60
+----------
+almost done with the tracks
+
+
+version .55
+-----
+updated readme with more credits
+added more fences still. 
+
+version .50
+------------------------
+added working finish line
+added more walls, still need to finish the track
+added win menu
+
+
+version .45
+-----------------------
+score system now fully functional
+made track wider
+added multiple pathways
+added finish line
+
+
+version .40 - roberto morales
+---------------------------
+fixed the main menu. all buttons work now
+
+
+version .30 - roberto morales
+----------------------------
+moved all scripts to /Assets/Standard Assets/Vehicles/Car/Scripts
+it was causing problems
+added death menu
+added pause menu
+edit: moved all scripts back to scripts folder. ALL, even the car scripts
+
+
+
+version .25 - roberto morales
+---------------------------
+added bombs
+added coins
+killbox has been removed from the fence, killbox is now bombs
+added diamonds
+
+
+version .20- roberto morales
+--------------------------
+added score system
+added pause menu
+added restart function
+
+currently, score system isnt perfect, its the one from my 2d game
+currently restart works, test by crashing into first frence on the left
+currently pause menu doesnt do anything.
+
+
+
+
+
+
+----------------
+Version 0.15 - Neil De Los Santos
+Centered some of the buttons and text in main menu and how to play
+May have overwritten some of Vince Nguyen's changes
+
+
+
+
+---------------------
+
+Version 0.13 - Roberto Morales
+---------------
+added fences around track
+adjusted some of the car stats
+adjusted some of the water reflections
+the menu works but it needs to be fixed for a 16x9 ratio
+
+Version 0.12 - Vince Nguyen
+--------------
+Fixed the main menu so it now correctly loads the game.
+
+Version 0.11 - Roberto Morales
+--------------
+added colliders so car can't escape the map
+Vince added a placeholder for main menu
+
+Version 0.10 - Roberto Morales
+--------------
+First build. - something to start with 
+Created terrain 
+added skybox
+added car (from default assets)
+uploaded to rijeka
+
+
+
+
+
+---------------------------------------------
+Credits:
+skyboxes: https://www.assetstore.unity3d.com/en/#!/content/21737
+standard unity assets: https://www.assetstore.unity3d.com/en/#!/content/32351
+powerup: https://www.assetstore.unity3d.com/en/#!/content/36106
+fence: https://www.assetstore.unity3d.com/en/#!/content/6722
+ramp: http://tf3dm.com/3d-model/motorbike-jump-33208.html
+Background Music: samples from "Formula 06 (DJ Beam Vidio Remix)" by DJ Visage.
+----------------------------------------------
